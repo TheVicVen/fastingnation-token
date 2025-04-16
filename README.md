@@ -37,6 +37,7 @@ Fasting Nation is a movement and platform that empowers individuals to take cont
 - 🌐 Website: [https://fastingnation.io](https://fastingnation.io)
 - 📄 Smart Contract: [BscScan](https://bscscan.com/token/0x00c6EB1B43aF3E0c78a7c56bb23ff56e2B91385e)
 - 💻 Source Code: [GitHub Repository](https://github.com/TheVicVen/fastingnation-token)
+- 💻 Source BSCSCAN Code [BscScan](https://bscscan.com/address/0x00c6EB1B43aF3E0c78a7c56bb23ff56e2B91385e#code)
 
 ## 📃 License
 
